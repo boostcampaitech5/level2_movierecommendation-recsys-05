@@ -11,7 +11,7 @@
 
 
 ##  Issue Tags
-- 지금까지 나온 issue 중 관련된거 Tag(`#{issue번호}`꼴) 걸기
+지금까지 나온 issue 중 관련된 거 Tag(`#issue번호`꼴) 달기
 - Closed: # (issue 자동 close)
 - Fix: #
 - See also: #
