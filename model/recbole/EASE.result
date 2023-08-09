@@ -1,0 +1,36 @@
+reg_weight:1.0
+Valid result:
+recall@10 : 0.1415    ndcg@10 : 0.2037
+Test result:
+recall@10 : 0.1596    ndcg@10 : 0.2459
+
+reg_weight:10.0
+Valid result:
+recall@10 : 0.1479    ndcg@10 : 0.2149
+Test result:
+recall@10 : 0.1676    ndcg@10 : 0.2617
+
+reg_weight:100.0
+Valid result:
+recall@10 : 0.1607    ndcg@10 : 0.237
+Test result:
+recall@10 : 0.1836    ndcg@10 : 0.2947
+
+reg_weight:500.0
+Valid result:
+recall@10 : 0.166    ndcg@10 : 0.247
+Test result:
+recall@10 : 0.1908    ndcg@10 : 0.3114
+
+reg_weight:1000.0
+Valid result:
+recall@10 : 0.1666    ndcg@10 : 0.2486
+Test result:
+recall@10 : 0.1912    ndcg@10 : 0.3142
+
+reg_weight:250.0
+Valid result:
+recall@10 : 0.1644    ndcg@10 : 0.2437
+Test result:
+recall@10 : 0.1886    ndcg@10 : 0.3056
+

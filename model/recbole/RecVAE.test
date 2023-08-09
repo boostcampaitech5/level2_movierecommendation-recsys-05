@@ -1,0 +1,4 @@
+beta choice [0.1,0.2,0.3]
+dropout_prob choice [0.3,0.5,0.7]
+gamma choice [0.001,0.005,0.01]
+latent_dimension choice [100,200,300]
